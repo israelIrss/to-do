@@ -28,3 +28,6 @@ switch (comando) {
         console.log('comando no reconocido');
 
 }
+
+//git tag -a v1.0.0 -m "primera version"
+//sube tags
